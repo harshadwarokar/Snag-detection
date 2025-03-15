@@ -17,7 +17,7 @@ Ensure you have **Python 3.8+** installed on your system.
 ### Setup  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/snag-detection.git
+   git clone https://github.com/harshadwarokar/snag-detection.git
    cd snag-detection
    ```
 
