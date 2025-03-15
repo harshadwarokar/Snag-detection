@@ -8,7 +8,7 @@ import os
 import time
 
 # Configure Google Generative AI API key
-API_KEY = "AIzaSyD_sZRCvGI3P7aPVyCtznPAuqtcBdiQYvo"
+API_KEY = ""
 genai.configure(api_key=API_KEY)
 
 # Function to extract frames from video at 1-second intervals
